@@ -2,6 +2,9 @@
 ## I have a lot of time to figure '<h2>' header.
 ###### is this the longest or the shortest '<h6>' header.
 
+## Adding a image
+![Image of Yaktocat]``
+
 
 
 
